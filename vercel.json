@@ -1,3 +1,15 @@
 {
-    "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+    "redirects": [
+      {
+        "source": "/micro-frontend-1",
+        "destination": "https://micro-frontend-1.vercel.app",
+        "permanent": false
+      },
+      {
+        "source": "/micro-frontend-2",
+        "destination": "https://micro-frontend-2.vercel.app",
+        "permanent": false
+      }
+    ]
   }
+  

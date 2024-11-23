@@ -7,7 +7,6 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<div />} />
         <Route path="/micro-frontend-1" element={<MicroFrontend1 />} />
         <Route path="/micro-frontend-2" element={<MicroFrontend2 />} />
       </Routes>
