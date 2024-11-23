@@ -1,0 +1,13 @@
+{
+    "rewrites": [
+      {
+        "source": "/micro-frontend-1",
+        "destination": "https://micro-frontend-1-two.vercel.app"
+      },
+      {
+        "source": "/micro-frontend-2",
+        "destination": "https://micro-frontend-2-theta.vercel.app"
+      }
+    ]
+  }
+  
