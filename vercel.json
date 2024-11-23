@@ -2,12 +2,12 @@
     "redirects": [
       {
         "source": "/micro-frontend-1",
-        "destination": "https://micro-frontend-1.vercel.app",
+        "destination": "https://micro-frontend-1-two.vercel.app",
         "permanent": false
       },
       {
         "source": "/micro-frontend-2",
-        "destination": "https://micro-frontend-2.vercel.app",
+        "destination": "https://micro-frontend-2-theta.vercel.app",
         "permanent": false
       }
     ]
