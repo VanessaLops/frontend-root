@@ -2,7 +2,7 @@ const MicroFrontend1 = () => {
     return (
       <div style={{ height: '100%', margin: 0, padding: 0 }}>
         <iframe
-          src="https://micro-frontend-1-two.vercel.app/"
+          src="/micro-frontend-1"
           title="Micro Frontend 1"
           style={{
             width: '100%',
